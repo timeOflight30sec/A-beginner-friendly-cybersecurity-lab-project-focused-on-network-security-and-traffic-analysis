@@ -17,7 +17,7 @@ This project demonstrates the creation and configuration of a beginner-friendly 
 - **Penetration Testing Tools**: Nmap, Metasploit
 
 ## Lab Topology
-(Insert a diagram of your lab setup here. Use tools like [draw.io](https://app.diagrams.net/) to create a basic network diagram.)
+![image](https://github.com/user-attachments/assets/61032063-0f95-4463-ae8b-fbf1518285ba)
 
 ## Steps
 1. **Set Up Virtual Machines**
